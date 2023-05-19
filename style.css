@@ -19,6 +19,8 @@ h1{
     padding-left: 10px;
     margin-left: 5%;
     margin-right: 5%;
+    align-items: center;
+    justify-content: center;
 }
 .top-banner img{
     width: 80%;
@@ -36,11 +38,23 @@ h1{
     background-color: green;
     transition: translateY(12px);
 }
+.gold-fish{
+    height: 90%;
+    width: 67%;
+    background-image: linear-gradient(rgb(231, 134, 150),lightpink,rgb(240, 146, 244),rgb(86, 202, 240)50%
+    );
+    /* background-image: linear-gradient(rgb(243, 123, 243),rgba(236, 229, 230, 0.793),rgb(27, 217, 220),rgb(238, 96, 96),orange,rgb(231, 134, 150),lightpink,rgb(240, 146, 244),rgb(86, 202, 240)); */
+    
+    margin-top: 5%;
+    border-radius: 50%;
+
+}
 
 .top-head{
     height: 300px;
     width: auto;
-    background-color: rgb(223, 15, 174);
+    /* background-color: rgb(223, 15, 174); */
+    background-image: linear-gradient(rgb(231, 134, 150),lightpink,rgb(240, 146, 244),rgb(86, 202, 240));
     clip-path: polygon(100% 0%, 0% 100%, 100% 100%, 100% 100%);
     
   } 
