@@ -32,6 +32,10 @@ h1{
     border-radius: 8px;
     
 }
+.btn-class:hover{
+    background-color: green;
+    transition: translateY(12px);
+}
 
 .top-head{
     height: 300px;
@@ -52,10 +56,25 @@ h1{
     padding-left: 20px;
     box-shadow: 10px 20px  8px grey;
 }
+/* #marvel-eyes{
+    margin-left: 6px solid orangered;
+    color: aqua;
+}
+#middle-child{
+    margin-left: 6px solid purple;
+} */
+.gm-pm{
+    padding-left: 2%;
+    margin-left: 5%;
+}
 .last-child{
     height: 200px;
     color: rgb(21, 20, 20);
-    background-image: linear-gradient(orangered,orange,purple);
+    text-align: center;
+    justify-content: center;
+    padding-top: 130px;
+    align-items: center;
+    /* background-image: linear-gradient(orangered,orange,purple); */
    
 }
 .last-child-gm{
@@ -69,3 +88,4 @@ h1{
     display: flex;
     
 }
+
