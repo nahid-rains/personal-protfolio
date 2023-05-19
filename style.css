@@ -19,7 +19,7 @@ section{
 }
 .top-banner img{
     width: 80%;
-    padding-top: 2%;
+    padding:1%;
 }
 .btn-class{
     text-decoration: none;
@@ -27,8 +27,25 @@ section{
     background-color: orangered;
     color: white;
     border-radius: 8px;
+    
 }
-.ground-layer{
+/* .ground-layer{
     height: 600px;
-    background-image: linear-gradient(purple,orangered,aqua,yellow);
+    /* background-image: linear-gradient(blue 40%,orangered,yellow); */
 }
+.top-head{
+    height: 300px;
+    width: auto;
+    background-color: rgb(233, 221, 244);
+    clip-path: polygon(100% 0%, 0% 100%, 100% 100%, 100% 100%);
+    
+  
+
+
+} 
+/* ul{
+    display: right;
+} */
+/* .main{
+    height: 300px;
+/* } */
