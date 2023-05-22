@@ -11,7 +11,7 @@ body{
 .slider-page{
     height: 400px;
     width: 400px;
-    background-image: linear-gradient(rgb(229, 227, 223),rgba(15, 80, 231, 0.612),rgb(104, 226, 11));
+    background-image: linear-gradient(rgb(224, 40, 8),rgba(239, 19, 4, 0.612),rgb(242, 8, 47));
     box-shadow: 10px 10px 10px  rgb(109, 100, 100);
     border-radius: 5px;
     text-align: center;
@@ -24,7 +24,7 @@ body{
 .marging-slot{
     height: 400px;
     width: 400px;
-    background-image: linear-gradient(rgb(253, 253, 253),rgb(240, 76, 213),rgb(234, 9, 163));
+    background-image: linear-gradient(rgb(35, 244, 8),rgb(40, 212, 9),rgb(9, 252, 0));
     box-shadow: 4px 4px 15px rgb(157, 140, 140);
     border-radius: 5px;
     display: flex;
@@ -36,14 +36,14 @@ body{
 
 .slider-page  h1{
     text-decoration: none;
-    color: rgb(221, 27, 169);
+    color: rgba(108, 240, 15, 0.945);
     /* justify-content: center;
     align-items: center;
     margin-top: 150px; */
 }
 .marging-slot h1{
     text-decoration: none;
-    color: rgb(4, 159, 255);
+    color: rgb(255, 4, 12);
     /* justify-content: center;
     align-items: center;
     margin-top: 150px; */
