@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 200px;
+    /* background-color: orange; */
+}
+.slider-page{
+    height: 400px;
+    width: 400px;
+    background-image: linear-gradient(rgb(229, 227, 223),rgba(15, 80, 231, 0.612),rgb(104, 226, 11));
+    box-shadow: 10px 10px 10px  rgb(109, 100, 100);
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10em;
+    display: flex;
+    
+}
+.marging-slot{
+    height: 400px;
+    width: 400px;
+    background-image: linear-gradient(rgb(253, 253, 253),rgb(240, 76, 213),rgb(234, 9, 163));
+    box-shadow: 4px 4px 15px rgb(157, 140, 140);
+    border-radius: 5px;
+    display: flex;
+    text-align: center;
+     align-items: center;
+    justify-content: center; }
+
+    
+
+.slider-page  h1{
+    text-decoration: none;
+    color: rgb(221, 27, 169);
+    /* justify-content: center;
+    align-items: center;
+    margin-top: 150px; */
+}
+.marging-slot h1{
+    text-decoration: none;
+    color: rgb(4, 159, 255);
+    /* justify-content: center;
+    align-items: center;
+    margin-top: 150px; */
+}
+.slider-page:hover{
+    transform: translate(y);
+    background-color: blueviolet;
+    color: aqua;
+}

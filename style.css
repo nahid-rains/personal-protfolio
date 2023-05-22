@@ -43,7 +43,7 @@ h1{
     width: 67%;
     background-image: linear-gradient(rgb(231, 134, 150),lightpink,rgb(240, 146, 244),rgb(86, 202, 240)50%
     );
-    /* background-image: linear-gradient(rgb(243, 123, 243),rgba(236, 229, 230, 0.793),rgb(27, 217, 220),rgb(238, 96, 96),orange,rgb(231, 134, 150),lightpink,rgb(240, 146, 244),rgb(86, 202, 240)); */
+    background-image: linear-gradient(rgb(243, 123, 243),rgba(236, 229, 230, 0.793),rgb(27, 217, 220),rgb(238, 96, 96),orange,rgb(231, 134, 150),lightpink,rgb(240, 146, 244),rgb(86, 202, 240));
     
     margin-top: 5%;
     border-radius: 50%;
