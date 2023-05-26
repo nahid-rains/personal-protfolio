@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Responsive Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    /* Set the width of the main container to 100% */
+    body {
+      width: 100%;
+    }
+
+    /* Set the width of the columns to 50% */
+    .column {
+      width: 50%;
+    }
+
+    /* Responsive layout for different screen sizes */
+    @media (max-width: 500px) {
+      /* On small screens, make the columns 100% wide */
+      .column {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="column">
+      <h1>This is a column</h1>
+      <p>This is some text in the column.</p>
+    </div>
+    <div class="column">
+      <h1>This is another column</h1>
+      <p>This is some text in the other column.</p>
+    </div>
+  </div>
+</body>
+</html>
